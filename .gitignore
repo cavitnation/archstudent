@@ -1,0 +1,7 @@
+*.db
+*.sqlite*
+cache/*.db
+*.bak
+*.bak-*
+*.bak.*
+# secrets live in /var/www/private/ (outside repo)

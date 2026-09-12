@@ -1,0 +1,2169 @@
+[
+    {
+        "country": "Argentina",
+        "name": "César Pelli",
+        "born": "1926",
+        "died": "2019",
+        "city": "New Haven, Connecticut",
+        "wiki": "https://en.wikipedia.org/wiki/C%C3%A9sar_Pelli",
+        "blurb": "Designed elegant supertall towers, including the twin Petronas Towers, favoring refined skins over a signature style across global skylines.",
+        "works": [
+            "Petronas Towers",
+            "World Financial Center",
+            "Salesforce Tower",
+            "Torre de Cristal"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/C%C3%A9sar_Pelli_%28cropped%29.jpg/500px-C%C3%A9sar_Pelli_%28cropped%29.jpg",
+        "credit": "Presidencia de la Nación Argentina",
+        "license": "CC BY-SA 2.0"
+    },
+    {
+        "country": "Australia",
+        "name": "Glenn Murcutt",
+        "born": "1936",
+        "died": "",
+        "city": "Sydney",
+        "wiki": "https://en.wikipedia.org/wiki/Glenn_Murcutt",
+        "blurb": "Pritzker laureate working solo, designing lightweight, climate-tuned houses that \"touch the earth lightly.\"",
+        "works": [
+            "Magney House",
+            "Marie Short House",
+            "Simpson-Lee House",
+            "Arthur & Yvonne Boyd Education Centre"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Glenn_Murcutt_27-11-04_%283x4_cropped%29.jpg",
+        "credit": "ArquiWHAT",
+        "license": "Public domain"
+    },
+    {
+        "country": "Austria",
+        "name": "Adolf Loos",
+        "born": "1870",
+        "died": "1933",
+        "city": "Vienna",
+        "wiki": "https://en.wikipedia.org/wiki/Adolf_Loos",
+        "blurb": "Provocateur who branded ornament a crime, championing smooth facades and spatial 'Raumplan' interiors of interlocking split levels.",
+        "works": [
+            "Looshaus",
+            "Villa Muller",
+            "American Bar",
+            "Steiner House"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Otto_Mayer_-_Adolf_Loos._%28Fotografie_um_1904%29_%28cropped%29.jpg",
+        "credit": "Otto Mayer",
+        "license": "Public domain"
+    },
+    {
+        "country": "Austria",
+        "name": "Hans Hollein",
+        "born": "1934",
+        "died": "2014",
+        "city": "Vienna",
+        "wiki": "https://en.wikipedia.org/wiki/Hans_Hollein",
+        "blurb": "Austrian postmodernist who blended art, commerce and sculptural monumentality in richly detailed museums and glittering boutique shopfronts.",
+        "works": [
+            "Haas House",
+            "Abteiberg Museum",
+            "Retti Candle Shop",
+            "Schullin Jewellery Store"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hans_Hollein%2C_Architect%2C_Designer.jpg/500px-Hans_Hollein%2C_Architect%2C_Designer.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "Austria",
+        "name": "Otto Wagner",
+        "born": "1841",
+        "died": "1918",
+        "city": "Vienna",
+        "wiki": "https://en.wikipedia.org/wiki/Otto_Wagner",
+        "blurb": "Vienna Secession pioneer who shed historicist ornament for functional, boldly modern civic buildings clad in marble and aluminium bolts.",
+        "works": [
+            "Austrian Postal Savings Bank",
+            "Church of St. Leopold (am Steinhof)",
+            "Majolica House",
+            "Karlsplatz Stadtbahn Station"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Otto_Wagner_photo2_retouched.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "Bangladesh",
+        "name": "Marina Tabassum",
+        "born": "1969",
+        "died": "",
+        "city": "Dhaka",
+        "wiki": "https://en.wikipedia.org/wiki/Marina_Tabassum",
+        "blurb": "Crafts a spiritual, climate-rooted modernism in brick and light, from luminous mosques to flood-resilient homes for the poor.",
+        "works": [
+            "Bait Ur Rouf Mosque",
+            "Museum of Independence, Dhaka",
+            "Khudi Bari modular houses",
+            "A5 House"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Marina_Tabassum_in_2023.jpg/500px-Marina_Tabassum_in_2023.jpg",
+        "credit": "Kaethe17",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Belgium",
+        "name": "Victor Horta",
+        "born": "1861",
+        "died": "1947",
+        "city": "Brussels",
+        "wiki": "https://en.wikipedia.org/wiki/Victor_Horta",
+        "blurb": "Belgian Art Nouveau originator who dissolved walls into whiplash iron tendrils, glass and daylight within flowing bourgeois townhouses.",
+        "works": [
+            "Hotel Tassel",
+            "Hotel Solvay",
+            "Maison du Peuple",
+            "Horta Museum"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Victor_Horta_%28cropped%29.jpg",
+        "credit": "Gustave Deltour",
+        "license": "Public domain"
+    },
+    {
+        "country": "Brazil",
+        "name": "Lina Bo Bardi",
+        "born": "1914",
+        "died": "1992",
+        "city": "São Paulo",
+        "wiki": "https://en.wikipedia.org/wiki/Lina_Bo_Bardi",
+        "blurb": "Fused bold concrete-and-glass modernism with Brazilian popular culture, craft and generous public space.",
+        "works": [
+            "São Paulo Museum of Art (MASP)",
+            "SESC Pompéia",
+            "Casa de Vidro",
+            "Teatro Oficina"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lina_Bo_Bardi.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "Brazil",
+        "name": "Oscar Niemeyer",
+        "born": "1907",
+        "died": "2012",
+        "city": "Rio de Janeiro",
+        "wiki": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+        "blurb": "Sculpted sweeping reinforced-concrete curves that defined the modernist capital of Brasília.",
+        "works": [
+            "Cathedral of Brasília",
+            "National Congress of Brazil",
+            "Niterói Contemporary Art Museum",
+            "Copan Building"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Oscar_Niemeyer_1968b.jpg/500px-Oscar_Niemeyer_1968b.jpg",
+        "credit": "Unknown (Mondadori Publishers)",
+        "license": "Public domain"
+    },
+    {
+        "country": "Brazil",
+        "name": "Paulo Mendes da Rocha",
+        "born": "1928",
+        "died": "2021",
+        "city": "São Paulo",
+        "wiki": "https://en.wikipedia.org/wiki/Paulo_Mendes_da_Rocha",
+        "blurb": "Leading figure of Paulista Brutalism, celebrated for bold, spare concrete structures and civic public space.",
+        "works": [
+            "Brazilian Museum of Sculpture (MuBE)",
+            "Pinacoteca do Estado",
+            "Paulistano Athletic Club Gymnasium",
+            "Brazilian Pavilion, Expo 70"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Paulo_Mendes_Da_Rocha-Arquisur_2009_%28cropped%29.jpg",
+        "credit": "Paja Brava",
+        "license": "Public domain"
+    },
+    {
+        "country": "Burkina Faso",
+        "name": "Diébédo Francis Kéré",
+        "born": "1965",
+        "died": "",
+        "city": "Berlin",
+        "wiki": "https://en.wikipedia.org/wiki/Francis_K%C3%A9r%C3%A9",
+        "blurb": "Pritzker laureate raising climate-smart schools and civic halls from local clay, community hands and passively cooled, daylight-flooded overhanging roofs.",
+        "works": [
+            "Gando Primary School",
+            "Serpentine Pavilion 2017",
+            "Startup Lions Campus",
+            "Benin National Assembly"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Francis_Kere%2C_2019_%28cropped%29.jpg/500px-Francis_Kere%2C_2019_%28cropped%29.jpg",
+        "credit": "Astrid Eckert",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "Canada",
+        "name": "Frank Gehry",
+        "born": "1929",
+        "died": "",
+        "city": "Los Angeles",
+        "wiki": "https://en.wikipedia.org/wiki/Frank_Gehry",
+        "blurb": "Deconstructivist known for sculptural, titanium-clad curves that turned buildings into billowing metallic forms.",
+        "works": [
+            "Guggenheim Museum Bilbao",
+            "Walt Disney Concert Hall",
+            "Dancing House",
+            "Fondation Louis Vuitton"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Frank_Gehry%2C_Viljo_Revell_Centenary_reception%2C_2010_%28S2311_fl2969_it0089%29_%28cropped%29.jpg",
+        "credit": "City of Toronto / Jose San Juan",
+        "license": "Attribution"
+    },
+    {
+        "country": "Canada",
+        "name": "Moshe Safdie",
+        "born": "1938",
+        "died": "",
+        "city": "Montreal",
+        "wiki": "https://en.wikipedia.org/wiki/Moshe_Safdie",
+        "blurb": "Humanises megastructures through modular Habitat housing and light-filled, garden-woven civic complexes.",
+        "works": [
+            "Habitat 67",
+            "Marina Bay Sands",
+            "Jewel Changi Airport",
+            "Yad Vashem Holocaust History Museum"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Moshe_Safdie_by_Michal_Ronnen_Safdie_%28cropped%29.jpg/500px-Moshe_Safdie_by_Michal_Ronnen_Safdie_%28cropped%29.jpg",
+        "credit": "Michal Ronnen Safdie",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Chile",
+        "name": "Alejandro Aravena",
+        "born": "1967",
+        "died": "",
+        "city": "Santiago",
+        "wiki": "https://en.wikipedia.org/wiki/Alejandro_Aravena",
+        "blurb": "Champions socially engaged \"incremental\" housing and civic architecture, giving low-income residents half a good house they can expand themselves.",
+        "works": [
+            "Quinta Monroy Housing",
+            "UC Innovation Center Anacleto Angelini",
+            "Constitución reconstruction plan",
+            "St. Edward's University dormitories"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Premio_Abd%C3%B3n_Cifuentes_2015_-_Alejandro_Aravena_01.jpg/500px-Premio_Abd%C3%B3n_Cifuentes_2015_-_Alejandro_Aravena_01.jpg",
+        "credit": "Centro de Políticas Públicas UC",
+        "license": "CC BY 3.0"
+    },
+    {
+        "country": "China",
+        "name": "I. M. Pei",
+        "born": "1917",
+        "died": "2019",
+        "city": "New York City",
+        "wiki": "https://en.wikipedia.org/wiki/I._M._Pei",
+        "blurb": "Rendered civic modernism in crisp geometry, stone and glass, most iconically the Louvre's steel-and-glass pyramid.",
+        "works": [
+            "Louvre Pyramid",
+            "Bank of China Tower",
+            "East Building, National Gallery of Art",
+            "Museum of Islamic Art, Doha"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Itzhak_Perlman_with_I.M._Pei%2C_architect%2C_looking_at_model_of_NYC_Convention_Center_%2803124v%29_%28cropped%29.jpg/500px-Itzhak_Perlman_with_I.M._Pei%2C_architect%2C_looking_at_model_of_NYC_Convention_Center_%2803124v%29_%28cropped%29.jpg",
+        "credit": "Bernard Gotfryd",
+        "license": "Public domain"
+    },
+    {
+        "country": "China",
+        "name": "Ma Yansong",
+        "born": "1975",
+        "died": "",
+        "city": "Beijing",
+        "wiki": "https://en.wikipedia.org/wiki/Ma_Yansong",
+        "blurb": "Leads MAD Architects toward sinuous, organic 'Shanshui' forms that blur buildings into landscape and futurist emotion.",
+        "works": [
+            "Absolute Towers",
+            "Harbin Opera House",
+            "Ordos Museum",
+            "Lucas Museum of Narrative Art"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ma-yan-song.jpg",
+        "credit": "MAD GaMarry",
+        "license": "CC0"
+    },
+    {
+        "country": "China",
+        "name": "Wang Shu",
+        "born": "1963",
+        "died": "",
+        "city": "Hangzhou",
+        "wiki": "https://en.wikipedia.org/wiki/Wang_Shu",
+        "blurb": "Builds from salvaged bricks and tiles, weaving vernacular craft and memory into contemporary Chinese architecture.",
+        "works": [
+            "Ningbo History Museum",
+            "China Academy of Art, Xiangshan Campus",
+            "Ningbo Tengtou Pavilion",
+            "Wa Shan Guesthouse"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wang_Shu_at_Venice_Biennale_2027_%28crop%29.jpg/500px-Wang_Shu_at_Venice_Biennale_2027_%28crop%29.jpg",
+        "credit": "LucaFazPhoto",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Denmark",
+        "name": "Arne Jacobsen",
+        "born": "1902",
+        "died": "1971",
+        "city": "Copenhagen",
+        "wiki": "https://en.wikipedia.org/wiki/Arne_Jacobsen",
+        "blurb": "Danish functionalist who unified building and furniture, from the SAS Royal Hotel to the Egg and Ant chairs.",
+        "works": [
+            "SAS Royal Hotel",
+            "St Catherine's College Oxford",
+            "Aarhus City Hall",
+            "Bellevue Beach"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/4/49/Arne_Jacobsen_photo.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "Denmark",
+        "name": "Bjarke Ingels",
+        "born": "1974",
+        "died": "",
+        "city": "Copenhagen",
+        "wiki": "https://en.wikipedia.org/wiki/Bjarke_Ingels",
+        "blurb": "Founder of BIG, known for playful \"hedonistic sustainability\" like the ski-slope-topped CopenHill power plant.",
+        "works": [
+            "CopenHill",
+            "8 House",
+            "VIA 57 West",
+            "Mountain Dwellings"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bjarke_Ingels_in_Frankfurt.20150617.jpg/500px-Bjarke_Ingels_in_Frankfurt.20150617.jpg",
+        "credit": "Epizentrum",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "Denmark",
+        "name": "Henning Larsen",
+        "born": "1925",
+        "died": "2013",
+        "city": "Copenhagen",
+        "wiki": "https://en.wikipedia.org/wiki/Henning_Larsen",
+        "blurb": "Danish master of daylight whose luminous stone and glass civic halls balance Nordic restraint with sculptural monumentality.",
+        "works": [
+            "Copenhagen Opera House",
+            "Ministry of Foreign Affairs Riyadh",
+            "Moesgaard Museum",
+            "Harpa Concert Hall"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Henning_Larsen_1967.jpg/500px-Henning_Larsen_1967.jpg",
+        "credit": "Jack de Nijs for Anefo",
+        "license": "CC BY-SA 3.0 nl"
+    },
+    {
+        "country": "Denmark",
+        "name": "Jorn Utzon",
+        "born": "1918",
+        "died": "2008",
+        "city": "Copenhagen",
+        "wiki": "https://en.wikipedia.org/wiki/J%C3%B8rn_Utzon",
+        "blurb": "Pritzker laureate whose sculptural, sail-roofed Sydney Opera House redefined twentieth-century architecture.",
+        "works": [
+            "Sydney Opera House",
+            "Bagsvaerd Church",
+            "Kuwait National Assembly",
+            "Can Lis"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": ""
+    },
+    {
+        "country": "Egypt",
+        "name": "Hassan Fathy",
+        "born": "1900",
+        "died": "1989",
+        "city": "Cairo",
+        "wiki": "https://en.wikipedia.org/wiki/Hassan_Fathy",
+        "blurb": "Reviver of Nubian mudbrick who resurrected vaults, domes and passive cooling to build dignified, low-cost villages for Egypt's rural poor.",
+        "works": [
+            "New Gourna Village",
+            "Dar al-Islam Village",
+            "New Baris Village",
+            "Hamed Said House"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hassan_Fathy_in_Cairo_%28cropped%29.jpg/500px-Hassan_Fathy_in_Cairo_%28cropped%29.jpg",
+        "credit": "Dimitri Papadimos personal archive with his son Ioannis D. Papadimos",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "Finland",
+        "name": "Alvar Aalto",
+        "born": "1898",
+        "died": "1976",
+        "city": "Helsinki",
+        "wiki": "https://en.wikipedia.org/wiki/Alvar_Aalto",
+        "blurb": "Softened modernism with organic curves, warm timber and undulating brick, pioneering bent-plywood furniture that made functionalism humane.",
+        "works": [
+            "Paimio Sanatorium",
+            "Villa Mairea",
+            "Finlandia Hall",
+            "Saynatsalo Town Hall"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Alvar_Aalto1.jpg/500px-Alvar_Aalto1.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "Finland",
+        "name": "Eliel Saarinen",
+        "born": "1873",
+        "died": "1950",
+        "city": "Helsinki",
+        "wiki": "https://en.wikipedia.org/wiki/Eliel_Saarinen",
+        "blurb": "Finnish National Romantic whose granite railway halls and towers bridged Art Nouveau and the American skyscraper before he emigrated.",
+        "works": [
+            "Helsinki Central Station",
+            "National Museum of Finland",
+            "Cranbrook Educational Community",
+            "Hvittrask"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Eliel_Saarinen.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "France",
+        "name": "Auguste Perret",
+        "born": "1874",
+        "died": "1954",
+        "city": "Paris",
+        "wiki": "https://en.wikipedia.org/wiki/Auguste_Perret",
+        "blurb": "Pioneered reinforced-concrete architecture, turning a structural technique into a refined classical language that rebuilt Le Havre after the war.",
+        "works": [
+            "Rebuilt centre of Le Havre",
+            "Théâtre des Champs-Élysées",
+            "Notre-Dame du Raincy",
+            "25 bis Rue Franklin"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Auguste_Perret_par_Henri_Manuel.png/500px-Auguste_Perret_par_Henri_Manuel.png",
+        "credit": "Henri Manuel",
+        "license": "Public domain"
+    },
+    {
+        "country": "France",
+        "name": "Charlotte Perriand",
+        "born": "1903",
+        "died": "1999",
+        "city": "Paris",
+        "wiki": "https://en.wikipedia.org/wiki/Charlotte_Perriand",
+        "blurb": "Shaped modern living through tubular-steel furniture and mountain interiors, blending machine-age rationalism with warm natural materials and Japanese craft.",
+        "works": [
+            "LC4 Chaise Longue",
+            "Les Arcs ski resort",
+            "Refuge Tonneau",
+            "Maison du Brésil interiors"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Charlotte_Perriand_Janvier_1991.jpg/500px-Charlotte_Perriand_Janvier_1991.jpg",
+        "credit": "Robert Doisneau",
+        "license": "CC0"
+    },
+    {
+        "country": "France",
+        "name": "Claude Nicolas Ledoux",
+        "born": "1736",
+        "died": "1806",
+        "city": "Paris",
+        "wiki": "https://en.wikipedia.org/wiki/Claude_Nicolas_Ledoux",
+        "blurb": "Visionary of French Neoclassicism whose utopian saltworks and geometric toll-gates pushed pure form toward a radical ideal architecture.",
+        "works": [
+            "Royal Saltworks at Arc-et-Senans",
+            "Rotonde de la Villette",
+            "Hôtel Guimard",
+            "Theatre of Besançon"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Claude_Nicolas_Ledoux_by_Martin_Drolling.JPG/500px-Claude_Nicolas_Ledoux_by_Martin_Drolling.JPG",
+        "credit": "Martin Drolling",
+        "license": "Public domain"
+    },
+    {
+        "country": "France",
+        "name": "Dominique Perrault",
+        "born": "1953",
+        "died": "",
+        "city": "Paris",
+        "wiki": "https://en.wikipedia.org/wiki/Dominique_Perrault",
+        "blurb": "Minimalist of monumental scale and metallic mesh, known for embedding vast civic buildings into landscape and ground.",
+        "works": [
+            "Bibliothèque nationale de France",
+            "Vélodrome and Olympic Pool, Berlin",
+            "Ewha Womans University, Seoul",
+            "DC Tower, Vienna"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dominique_Perrault.jpg/500px-Dominique_Perrault.jpg",
+        "credit": "DomusChina06",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "France",
+        "name": "Jean Nouvel",
+        "born": "1945",
+        "died": "",
+        "city": "Paris",
+        "wiki": "https://en.wikipedia.org/wiki/Jean_Nouvel",
+        "blurb": "Pritzker laureate whose contextual, light-modulating buildings respond uniquely to place, from mashrabiya screens to a floating desert dome.",
+        "works": [
+            "Institut du Monde Arabe",
+            "Louvre Abu Dhabi",
+            "Torre Agbar",
+            "Philharmonie de Paris"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jean_Nouvel_2009_Vienna_frontal.jpg/500px-Jean_Nouvel_2009_Vienna_frontal.jpg",
+        "credit": "Christopher Ohmeyer from vienna, AUT",
+        "license": "CC BY-SA 2.0"
+    },
+    {
+        "country": "France",
+        "name": "Le Corbusier",
+        "born": "1887",
+        "died": "1965",
+        "city": "Paris",
+        "wiki": "https://en.wikipedia.org/wiki/Le_Corbusier",
+        "blurb": "Pioneer of modern architecture and the International Style, championing raw concrete, pilotis and the house as a machine for living.",
+        "works": [
+            "Villa Savoye",
+            "Notre-Dame du Haut",
+            "Unité d'Habitation",
+            "Palace of Assembly, Chandigarh"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Le_Corbusier_%281964%29.jpg/500px-Le_Corbusier_%281964%29.jpg",
+        "credit": "Joop van Bilsen for Anefo",
+        "license": "CC0"
+    },
+    {
+        "country": "France",
+        "name": "Odile Decq",
+        "born": "1955",
+        "died": "",
+        "city": "Paris",
+        "wiki": "https://en.wikipedia.org/wiki/Odile_Decq",
+        "blurb": "Provocateur of sweeping red-hued, curvilinear interiors, fusing high-tech structure with a punk, feminist sensibility.",
+        "works": [
+            "MACRO, Rome",
+            "Phantom Restaurant, Opéra Garnier",
+            "FRAC Bretagne",
+            "Banque Populaire de l'Ouest"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Odile_Decq_%28cropped%29.jpg/500px-Odile_Decq_%28cropped%29.jpg",
+        "credit": "Columbia GSAPP",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "Germany",
+        "name": "Erich Mendelsohn",
+        "born": "1887",
+        "died": "1953",
+        "city": "Berlin",
+        "wiki": "https://en.wikipedia.org/wiki/Erich_Mendelsohn",
+        "blurb": "Pioneered Expressionist modernism with sweeping streamlined forms, epitomised by the sculptural Einstein Tower and his dynamic department stores.",
+        "works": [
+            "Einstein Tower, Potsdam",
+            "De La Warr Pavilion",
+            "Schocken Department Store, Stuttgart",
+            "Mossehaus, Berlin"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Erich_Mendelsohn_cropped.jpg/500px-Erich_Mendelsohn_cropped.jpg",
+        "credit": "Unknown",
+        "license": "CC BY 3.0"
+    },
+    {
+        "country": "Germany",
+        "name": "Frei Otto",
+        "born": "1925",
+        "died": "2015",
+        "city": "Stuttgart",
+        "wiki": "https://en.wikipedia.org/wiki/Frei_Otto",
+        "blurb": "Pioneer of lightweight tensile and membrane structures whose forms were derived from studying nature.",
+        "works": [
+            "Munich Olympic Stadium roof",
+            "Multihalle Mannheim",
+            "German Pavilion, Expo 67 Montreal",
+            "Institute for Lightweight Structures, Stuttgart"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": "",
+        "workphoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Olympic_Roof_Munich%2C_April_2019.jpg/960px-Olympic_Roof_Munich%2C_April_2019.jpg",
+        "workname": "Munich Olympic Stadium roof",
+        "workcredit": "Martin Falbisoner",
+        "worklicense": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Germany",
+        "name": "Gottfried Böhm",
+        "born": "1920",
+        "died": "2021",
+        "city": "Cologne",
+        "wiki": "https://en.wikipedia.org/wiki/Gottfried_B%C3%B6hm",
+        "blurb": "Sculpted raw concrete into soaring, crystalline sacred spaces, most famously the mountainous pilgrimage church at Neviges.",
+        "works": [
+            "Pilgrimage Church, Neviges",
+            "Bensberg Town Hall",
+            "Züblin-Haus, Stuttgart",
+            "Diocesan Museum, Paderborn"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Gottfried_B%C3%B6hm-2015.jpg/500px-Gottfried_B%C3%B6hm-2015.jpg",
+        "credit": "Elke Wetzig",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Germany",
+        "name": "Karl Friedrich Schinkel",
+        "born": "1781",
+        "died": "1841",
+        "city": "Berlin",
+        "wiki": "https://en.wikipedia.org/wiki/Karl_Friedrich_Schinkel",
+        "blurb": "Shaped Prussian Neoclassicism across Berlin, giving the capital museums, churches and guardhouses of severe, luminous Greek-revival clarity.",
+        "works": [
+            "Altes Museum",
+            "Konzerthaus Berlin",
+            "Neue Wache",
+            "Friedrichswerder Church"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Schinkel1.jpg/500px-Schinkel1.jpg",
+        "credit": "Carl Joseph Begas",
+        "license": "Public domain"
+    },
+    {
+        "country": "Germany",
+        "name": "Ludwig Mies van der Rohe",
+        "born": "1886",
+        "died": "1969",
+        "city": "Chicago",
+        "wiki": "https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe",
+        "blurb": "\"Less is more\" master of minimalist steel-and-glass modernism and the International Style.",
+        "works": [
+            "Barcelona Pavilion",
+            "Seagram Building, New York",
+            "Farnsworth House",
+            "Neue Nationalgalerie, Berlin"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ludwig_Mies_van_der_Rohe_in_Arts_%26_Architecture%2C_June_1960_issue.jpg/500px-Ludwig_Mies_van_der_Rohe_in_Arts_%26_Architecture%2C_June_1960_issue.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "Germany",
+        "name": "Walter Gropius",
+        "born": "1883",
+        "died": "1969",
+        "city": "Dessau",
+        "wiki": "https://en.wikipedia.org/wiki/Walter_Gropius",
+        "blurb": "Founder of the Bauhaus school, fusing art, craft and industry into functional modern design.",
+        "works": [
+            "Bauhaus Dessau building",
+            "Fagus Factory",
+            "Harvard Graduate Center",
+            "MetLife (Pan Am) Building, New York"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/WalterGropius-1919.jpg/500px-WalterGropius-1919.jpg",
+        "credit": "Louis Held",
+        "license": "Public domain"
+    },
+    {
+        "country": "Ghana",
+        "name": "David Adjaye",
+        "born": "1966",
+        "died": "",
+        "city": "London",
+        "wiki": "https://en.wikipedia.org/wiki/David_Adjaye",
+        "blurb": "Designer of the bronze-latticed Smithsonian African American museum, weaving material, filtered light and diaspora memory into monumental civic architecture.",
+        "works": [
+            "Smithsonian National Museum of African American History and Culture",
+            "Idea Store",
+            "Sugar Hill Development",
+            "Moscow School of Management Skolkovo"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/David_Adjaye%2C_Dhaka.jpg/500px-David_Adjaye%2C_Dhaka.jpg",
+        "credit": "Rossi101",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "Greece",
+        "name": "Dimitris Pikionis",
+        "born": "1887",
+        "died": "1968",
+        "city": "Athens",
+        "wiki": "https://en.wikipedia.org/wiki/Dimitris_Pikionis",
+        "blurb": "Poet of place who paved the Acropolis approaches in hand-set stone, binding Greek tradition and terrain into walkable landscape.",
+        "works": [
+            "Acropolis and Philopappou Hill Pathways",
+            "Church of St. Demetrios Loumbardiaris",
+            "Filothei Children's Playground",
+            "Experimental School of Thessaloniki"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": "",
+        "workphoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Church_of_Agios_Dimitrios_Loumbardiaris_in_Athens%2C_Greece.jpg/960px-Church_of_Agios_Dimitrios_Loumbardiaris_in_Athens%2C_Greece.jpg",
+        "workname": "Church of St. Demetrios Loumbardiaris",
+        "workcredit": "philip.mallis",
+        "worklicense": "CC BY-SA 2.0"
+    },
+    {
+        "country": "India",
+        "name": "Balkrishna Doshi",
+        "born": "1927",
+        "died": "2023",
+        "city": "Ahmedabad",
+        "wiki": "https://en.wikipedia.org/wiki/Balkrishna_Doshi",
+        "blurb": "Pritzker laureate who fused modernism with Indian vernacular in humane low-cost housing, campuses and institutions.",
+        "works": [
+            "Aranya Low-Cost Housing",
+            "Amdavad ni Gufa",
+            "Sangath studio",
+            "Indian Institute of Management Bangalore"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Balkrishna_Doshi_%283x4_cropped%29.JPG/500px-Balkrishna_Doshi_%283x4_cropped%29.JPG",
+        "credit": "Sanyam Bahga",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "India",
+        "name": "Bijoy Jain",
+        "born": "1965",
+        "died": "",
+        "city": "Mumbai",
+        "wiki": "https://en.wikipedia.org/wiki/Bijoy_Jain",
+        "blurb": "Founder of Studio Mumbai, crafting hand-built houses of stone, timber and water where artisan skill and site shape every joint.",
+        "works": [
+            "Copper House II",
+            "Palmyra House",
+            "Tara House",
+            "Leti 360 Resort"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bijoy_Jain_%28cropped%29.jpg",
+        "credit": "Rossi101",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "India",
+        "name": "Charles Correa",
+        "born": "1930",
+        "died": "2015",
+        "city": "Mumbai",
+        "wiki": "https://en.wikipedia.org/wiki/Charles_Correa",
+        "blurb": "Pioneered climate-responsive modernism with open-to-sky spaces, courtyards and low-cost urban housing rooted in Indian traditions.",
+        "works": [
+            "Kanchanjunga Apartments",
+            "Gandhi Smarak Sangrahalaya",
+            "Jawahar Kala Kendra",
+            "National Crafts Museum"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Charles_Correa.jpg",
+        "credit": "Dipz99",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "India",
+        "name": "Hafeez Contractor",
+        "born": "1950",
+        "died": "",
+        "city": "Mumbai",
+        "wiki": "https://en.wikipedia.org/wiki/Hafeez_Contractor",
+        "blurb": "Prolific shaper of India's post-liberalization skyline, delivering supertall luxury towers, stadiums and township-scale campuses across booming Mumbai and beyond.",
+        "works": [
+            "The Imperial",
+            "The 42",
+            "DY Patil Stadium",
+            "Minerva Tower"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": "",
+        "workphoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Imperial_Towers%2C_Mumbai.jpg/960px-The_Imperial_Towers%2C_Mumbai.jpg",
+        "workname": "The Imperial (Mumbai twin towers)",
+        "workcredit": "DesiBoy101",
+        "worklicense": "CC BY 4.0"
+    },
+    {
+        "country": "India",
+        "name": "Raj Rewal",
+        "born": "1934",
+        "died": "",
+        "city": "New Delhi",
+        "wiki": "https://en.wikipedia.org/wiki/Raj_Rewal",
+        "blurb": "Known for monumental modern buildings rooted in India's traditional urban forms, dense fabric and stone-lattice craft.",
+        "works": [
+            "Hall of Nations",
+            "Asian Games Village",
+            "Parliament Library",
+            "National Institute of Immunology"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rewal_Raj.jpg/500px-Rewal_Raj.jpg",
+        "credit": "Raj.rewal",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Iraq",
+        "name": "Rifat Chadirji",
+        "born": "1926",
+        "died": "2020",
+        "city": "Baghdad",
+        "wiki": "https://en.wikipedia.org/wiki/Rifat_Chadirji",
+        "blurb": "Father of modern Iraqi architecture who fused reinforced concrete with Abbasid arches and brickwork into a distinctive International Regionalism.",
+        "works": [
+            "Monument to the Unknown Soldier",
+            "Tobacco Monopoly Headquarters",
+            "Central Post Office, Baghdad",
+            "Federation of Industries Building"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Rifat_Chadirji_in_the_1960s_%28cropped%29.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "Ireland",
+        "name": "Grafton Architects (Farrell & McNamara)",
+        "born": "1978",
+        "died": "",
+        "city": "Dublin",
+        "wiki": "https://en.wikipedia.org/wiki/Grafton_Architects",
+        "blurb": "Dublin practice crafting tactile, monumental civic and university buildings in concrete and stone, honoured with the 2020 Pritzker Prize.",
+        "works": [
+            "UTEC Campus, Lima",
+            "Università Bocconi, Milan",
+            "Town House, Kingston University",
+            "Solstice Arts Centre, Navan"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": "",
+        "workphoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2017_Lima_-_Sede_de_la_UTEC.jpg/960px-2017_Lima_-_Sede_de_la_UTEC.jpg",
+        "workname": "UTEC Campus, Lima",
+        "workcredit": "Felipe Restrpo Acosta",
+        "worklicense": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Italy",
+        "name": "Aldo Rossi",
+        "born": "1931",
+        "died": "1997",
+        "city": "Milan",
+        "wiki": "https://en.wikipedia.org/wiki/Aldo_Rossi",
+        "blurb": "Theorist of Neo-Rationalism who revived archetypal urban forms and collective memory in built architecture.",
+        "works": [
+            "San Cataldo Cemetery",
+            "Teatro del Mondo",
+            "Gallaratese housing",
+            "Bonnefanten Museum"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/AldoRossi.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "Italy",
+        "name": "Andrea Palladio",
+        "born": "1508",
+        "died": "1580",
+        "city": "Vicenza",
+        "wiki": "https://en.wikipedia.org/wiki/Andrea_Palladio",
+        "blurb": "Renaissance master who distilled Roman order into serene symmetrical villas and temple-fronted facades that shaped classical architecture for centuries.",
+        "works": [
+            "Villa La Rotonda",
+            "Basilica Palladiana",
+            "San Giorgio Maggiore",
+            "Teatro Olimpico"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Andrea_Palladio_Portrait.jpg/500px-Andrea_Palladio_Portrait.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "Italy",
+        "name": "Carlo Scarpa",
+        "born": "1906",
+        "died": "1978",
+        "city": "Venice",
+        "wiki": "https://en.wikipedia.org/wiki/Carlo_Scarpa",
+        "blurb": "Craftsman-architect celebrated for meticulous detailing and the dialogue between modern intervention and historic fabric.",
+        "works": [
+            "Castelvecchio Museum",
+            "Brion Tomb",
+            "Olivetti Showroom",
+            "Querini Stampalia renovation"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Carlo_Scarpa_1954.jpg/500px-Carlo_Scarpa_1954.jpg",
+        "credit": "Mario De Biasi (Mondadori Publishers)",
+        "license": "Public domain"
+    },
+    {
+        "country": "Italy",
+        "name": "Filippo Brunelleschi",
+        "born": "1377",
+        "died": "1446",
+        "city": "Florence",
+        "wiki": "https://en.wikipedia.org/wiki/Filippo_Brunelleschi",
+        "blurb": "Founding father of Renaissance architecture who rediscovered linear perspective and raised Florence Cathedral's vast double-shell dome without centering.",
+        "works": [
+            "Florence Cathedral Dome",
+            "Ospedale degli Innocenti",
+            "Basilica of San Lorenzo",
+            "Pazzi Chapel"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Filippo_Brunelleschi.jpg/500px-Filippo_Brunelleschi.jpg",
+        "credit": "Nicolas de Larmessin and Esme de Boulonais",
+        "license": "Public domain"
+    },
+    {
+        "country": "Italy",
+        "name": "Gio Ponti",
+        "born": "1891",
+        "died": "1979",
+        "city": "Milan",
+        "wiki": "https://en.wikipedia.org/wiki/Gio_Ponti",
+        "blurb": "Restless polymath of Italian modernism whose slender crystalline towers and elegant furniture defined mid-century Milanese taste.",
+        "works": [
+            "Pirelli Tower",
+            "Villa Planchart",
+            "Denver Art Museum",
+            "Taranto Cathedral"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gio_Ponti_1950s.jpg/500px-Gio_Ponti_1950s.jpg",
+        "credit": "Unknown (Mondadori Publishers)",
+        "license": "Public domain"
+    },
+    {
+        "country": "Italy",
+        "name": "Massimiliano Fuksas",
+        "born": "1944",
+        "died": "",
+        "city": "Rome",
+        "wiki": "https://en.wikipedia.org/wiki/Massimiliano_Fuksas",
+        "blurb": "Sculptor of sweeping glass-and-steel gestures whose fluid canopies and cloud-like waves turn transport hubs into dramatic public spectacle.",
+        "works": [
+            "Fiera Milano",
+            "Shenzhen Bao'an Airport Terminal 3",
+            "MyZeil Frankfurt",
+            "Zenith Strasbourg"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fuksas_%28cropped%29.jpg/500px-Fuksas_%28cropped%29.jpg",
+        "credit": "Giorgio Muratore",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "Italy",
+        "name": "Pier Luigi Nervi",
+        "born": "1891",
+        "died": "1979",
+        "city": "Rome",
+        "wiki": "https://en.wikipedia.org/wiki/Pier_Luigi_Nervi",
+        "blurb": "Structural engineer-architect renowned for expressive reinforced-concrete vaults and elegant ferrocement stadiums and halls.",
+        "works": [
+            "Palazzetto dello Sport",
+            "Pirelli Tower",
+            "UNESCO Headquarters",
+            "Turin Exhibition Hall"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pier_Luigi_Nervi.jpg/500px-Pier_Luigi_Nervi.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "Italy",
+        "name": "Renzo Piano",
+        "born": "1937",
+        "died": "",
+        "city": "Genoa",
+        "wiki": "https://en.wikipedia.org/wiki/Renzo_Piano",
+        "blurb": "High-tech pioneer marrying lightweight engineering with generous daylight across cultural landmarks worldwide.",
+        "works": [
+            "Centre Pompidou",
+            "The Shard",
+            "Whitney Museum of American Art",
+            "Kansai International Airport"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Renzo_Piano%2C_portrait.jpg/500px-Renzo_Piano%2C_portrait.jpg",
+        "credit": "Cirone-Musi (Festival della Scienza, Genova)",
+        "license": "CC BY-SA 2.0"
+    },
+    {
+        "country": "Japan",
+        "name": "Arata Isozaki",
+        "born": "1931",
+        "died": "2022",
+        "city": "Oita",
+        "wiki": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+        "blurb": "Restless shape-shifter who moved from brutalist concrete to playful postmodern geometry, bridging Japanese tradition with global metropolitan ambition.",
+        "works": [
+            "Museum of Contemporary Art, Los Angeles",
+            "Palau Sant Jordi, Barcelona",
+            "Qatar National Convention Centre",
+            "Art Tower Mito"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Arata_Isozaki_%28ph._GianAngelo_Pistoia%29_1_%28cropped%29.jpg",
+        "credit": "GianAngelo Pistoia",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Japan",
+        "name": "Fumihiko Maki",
+        "born": "1928",
+        "died": "2024",
+        "city": "Tokyo",
+        "wiki": "https://en.wikipedia.org/wiki/Fumihiko_Maki",
+        "blurb": "Metabolist thinker of refined 'group form,' assembling elegant modular complexes in polished metal and layered urban fabric.",
+        "works": [
+            "Hillside Terrace",
+            "Spiral Building",
+            "4 World Trade Center",
+            "Aga Khan Museum"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fumihiko_Maki_2010_alt.jpg/500px-Fumihiko_Maki_2010_alt.jpg",
+        "credit": "jeanbaptisteparis, derivative work: aghith",
+        "license": "CC BY-SA 2.0"
+    },
+    {
+        "country": "Japan",
+        "name": "Kazuyo Sejima",
+        "born": "1956",
+        "died": "",
+        "city": "Tokyo",
+        "wiki": "https://en.wikipedia.org/wiki/Kazuyo_Sejima",
+        "blurb": "Co-founder of SANAA, crafting weightless, transparent spaces of thin planes, glass and quiet minimalist clarity.",
+        "works": [
+            "Rolex Learning Center",
+            "21st Century Museum of Contemporary Art, Kanazawa",
+            "New Museum, New York",
+            "Glass Pavilion, Toledo Museum of Art"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canopy_Gathering_Space_%28Kazuyo_Sejima%29_%2815137242547%29_cropped.jpg/500px-Canopy_Gathering_Space_%28Kazuyo_Sejima%29_%2815137242547%29_cropped.jpg",
+        "credit": "Columbia GSAPP",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "Japan",
+        "name": "Kengo Kuma",
+        "born": "1954",
+        "died": "",
+        "city": "Tokyo",
+        "wiki": "https://en.wikipedia.org/wiki/Kengo_Kuma",
+        "blurb": "Champions warm natural materials and layered timber lattices to soften modern buildings and reconnect them with place.",
+        "works": [
+            "Japan National Stadium",
+            "Nezu Museum",
+            "V&A Dundee",
+            "GC Prostho Museum Research Center"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kengo_Kuma_at_Strelka_Institute.jpg/500px-Kengo_Kuma_at_Strelka_Institute.jpg",
+        "credit": "Strelka Institute for Media, Architecture and Design",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "Japan",
+        "name": "Kenzo Tange",
+        "born": "1913",
+        "died": "2005",
+        "city": "Tokyo",
+        "wiki": "https://en.wikipedia.org/wiki/Kenzo_Tange",
+        "blurb": "Pioneered Japan's postwar Metabolism movement, fusing monumental modernist concrete with traditional Japanese proportion and civic scale.",
+        "works": [
+            "Hiroshima Peace Memorial Museum",
+            "Yoyogi National Gymnasium",
+            "St. Mary's Cathedral, Tokyo",
+            "Tokyo Metropolitan Government Building"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kenzo_Tange_1981_%283x4_cropped%29.jpg/500px-Kenzo_Tange_1981_%283x4_cropped%29.jpg",
+        "credit": "Hans van Dijk for Anefo",
+        "license": "CC BY-SA 3.0 nl"
+    },
+    {
+        "country": "Japan",
+        "name": "Riken Yamamoto",
+        "born": "1945",
+        "died": "",
+        "city": "Yokohama",
+        "wiki": "https://en.wikipedia.org/wiki/Riken_Yamamoto",
+        "blurb": "Designs transparent, community-minded housing and civic buildings that dissolve barriers between private homes and shared public life.",
+        "works": [
+            "Saitama Prefectural University",
+            "The Circle at Zurich Airport",
+            "Hiroshima Nishi Fire Station",
+            "Pangyo Housing, South Korea"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Riken_Yamamoto_2016_%283x4_cropped%29.jpg",
+        "credit": "Instituto Cervantes de Tokio",
+        "license": "CC BY-SA 2.0"
+    },
+    {
+        "country": "Japan",
+        "name": "Shigeru Ban",
+        "born": "1957",
+        "died": "",
+        "city": "Tokyo",
+        "wiki": "https://en.wikipedia.org/wiki/Shigeru_Ban",
+        "blurb": "Turns humble paper tubes and cardboard into elegant structures, pioneering low-cost disaster-relief shelters alongside refined cultural landmarks.",
+        "works": [
+            "Centre Pompidou-Metz",
+            "Cardboard Cathedral, Christchurch",
+            "Aspen Art Museum",
+            "Paper Log Houses"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Shigeru_Ban_%283x4_cropped%29.jpg/500px-Shigeru_Ban_%283x4_cropped%29.jpg",
+        "credit": "Forgemind ArchiMedia",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "Japan",
+        "name": "Sou Fujimoto",
+        "born": "1971",
+        "died": "",
+        "city": "Tokyo",
+        "wiki": "https://en.wikipedia.org/wiki/Sou_Fujimoto",
+        "blurb": "Blurs the line between nature and building with airy, lattice-like structures that feel like inhabitable forests and clouds.",
+        "works": [
+            "Serpentine Pavilion 2013",
+            "House NA",
+            "L'Arbre Blanc, Montpellier",
+            "Musashino Art University Library"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sou_Fujimoto_2011.jpg",
+        "credit": "Arturo.sanz",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Japan",
+        "name": "Tadao Ando",
+        "born": "1941",
+        "died": "",
+        "city": "Osaka",
+        "wiki": "https://en.wikipedia.org/wiki/Tadao_Ando",
+        "blurb": "Self-taught master of smooth board-formed concrete, geometric purity and choreographed natural light framing silence and spirituality.",
+        "works": [
+            "Church of the Light",
+            "Church on the Water",
+            "Chichu Art Museum",
+            "Row House (Azuma House)"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tadao_Ando_2004_%284x5_cropped%29.jpg/500px-Tadao_Ando_2004_%284x5_cropped%29.jpg",
+        "credit": "Christopher Schriner from Köln, Deutschland",
+        "license": "CC BY-SA 2.0"
+    },
+    {
+        "country": "Japan",
+        "name": "Toyo Ito",
+        "born": "1941",
+        "died": "",
+        "city": "Tokyo",
+        "wiki": "https://en.wikipedia.org/wiki/Toyo_Ito",
+        "blurb": "Conjures fluid, lightweight structures that dissolve boundaries, treating architecture as ephemeral flows of light, air and information.",
+        "works": [
+            "Sendai Mediatheque",
+            "Tama Art University Library",
+            "Tower of Winds",
+            "National Taichung Theater"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Toyo_Ito_2009.jpg/500px-Toyo_Ito_2009.jpg",
+        "credit": "Jerome Tobias",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "Malaysia",
+        "name": "Ken Yeang",
+        "born": "1948",
+        "died": "",
+        "city": "Kuala Lumpur",
+        "wiki": "https://en.wikipedia.org/wiki/Ken_Yeang",
+        "blurb": "Green-skyscraper pioneer whose bioclimatic towers use sky gardens, natural ventilation and ecology to make tall buildings breathe.",
+        "works": [
+            "Menara Mesiniaga",
+            "National Library, Singapore",
+            "Solaris, Singapore",
+            "DiGi Technology Operation Centre"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ken_Yeang.jpg",
+        "credit": "Rossi101",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Mexico",
+        "name": "Luis Barragán",
+        "born": "1902",
+        "died": "1988",
+        "city": "Mexico City",
+        "wiki": "https://en.wikipedia.org/wiki/Luis_Barrag%C3%A1n",
+        "blurb": "Master of emotional minimalism, composing vibrant colour planes, water and light within serene walled spaces.",
+        "works": [
+            "Casa Luis Barragán",
+            "Torres de Satélite",
+            "Cuadra San Cristóbal",
+            "Capilla de las Capuchinas"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Luis_Barrag%C3%A1n_Morf%C3%ADn.JPG",
+        "credit": "Fcarriedo",
+        "license": "CC BY 3.0"
+    },
+    {
+        "country": "Mexico",
+        "name": "Ricardo Legorreta",
+        "born": "1931",
+        "died": "2011",
+        "city": "Mexico City",
+        "wiki": "https://en.wikipedia.org/wiki/Ricardo_Legorreta",
+        "blurb": "Carried Barragán's bold colour and monumental walls into large hotels, museums and civic landmarks.",
+        "works": [
+            "Camino Real Hotel, Mexico City",
+            "MARCO Museum, Monterrey",
+            "Managua Cathedral",
+            "Pershing Square, Los Angeles"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": "",
+        "workphoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Museo_de_Arte_Contemporaneo_%28MARCO%29_de_Monterrey_-_panoramio.jpg/960px-Museo_de_Arte_Contemporaneo_%28MARCO%29_de_Monterrey_-_panoramio.jpg",
+        "workname": "MARCO Museum, Monterrey",
+        "workcredit": "Hari Seldon",
+        "worklicense": "CC BY-SA 3.0"
+    },
+    {
+        "country": "Mexico",
+        "name": "Tatiana Bilbao",
+        "born": "1972",
+        "died": "",
+        "city": "Mexico City",
+        "wiki": "https://en.wikipedia.org/wiki/Tatiana_Bilbao",
+        "blurb": "Socially engaged designer known for collage-driven forms and low-cost, adaptable sustainable housing.",
+        "works": [
+            "Culiacán Botanical Garden",
+            "Ruta del Peregrino",
+            "Casa Ventura",
+            "Sustainable Housing prototype"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Tatiana_Bilbao.jpg/500px-Tatiana_Bilbao.jpg",
+        "credit": "Giuliano Pastorelli",
+        "license": "CC BY-SA 2.0"
+    },
+    {
+        "country": "Netherlands",
+        "name": "Hendrik Petrus Berlage",
+        "born": "1856",
+        "died": "1934",
+        "city": "Amsterdam",
+        "wiki": "https://en.wikipedia.org/wiki/Hendrik_Petrus_Berlage",
+        "blurb": "Father of modern Dutch architecture, bridging honest brick craftsmanship and rational, stripped-down modernism.",
+        "works": [
+            "Beurs van Berlage, Amsterdam",
+            "Gemeentemuseum Den Haag",
+            "Jachthuis Sint Hubertus",
+            "Holland House, London"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hendrik_Petrus_Berlage.jpg",
+        "credit": "Amsterdam Municipal Department for the Preservation and Restoration of Historic Buildings and Sites (bMA)",
+        "license": "Attribution"
+    },
+    {
+        "country": "Netherlands",
+        "name": "Rem Koolhaas",
+        "born": "1944",
+        "died": "",
+        "city": "Rotterdam",
+        "wiki": "https://en.wikipedia.org/wiki/Rem_Koolhaas",
+        "blurb": "OMA founder and theorist whose provocative, programme-driven buildings reshaped contemporary architectural thinking.",
+        "works": [
+            "CCTV Headquarters, Beijing",
+            "Casa da Musica, Porto",
+            "Seattle Central Library",
+            "De Rotterdam"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rem_Koolhaas_2013.jpg/500px-Rem_Koolhaas_2013.jpg",
+        "credit": "Strelka Institute for Media, Architecture and Design",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "Netherlands",
+        "name": "Winy Maas",
+        "born": "1959",
+        "died": "",
+        "city": "Rotterdam",
+        "wiki": "https://en.wikipedia.org/wiki/Winy_Maas",
+        "blurb": "MVRDV co-founder known for bold, data-driven buildings that stack, hollow and reinvent the urban block.",
+        "works": [
+            "Markthal, Rotterdam",
+            "WoZoCo apartments, Amsterdam",
+            "Valley, Amsterdam",
+            "Crystal Houses, Amsterdam"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Winy_Maas_2012.jpg/500px-Winy_Maas_2012.jpg",
+        "credit": "Charles William Pelletier / C2-MTL",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "Nigeria",
+        "name": "Kunlé Adeyemi",
+        "born": "1976",
+        "died": "",
+        "city": "Amsterdam",
+        "wiki": "https://en.wikipedia.org/wiki/Kunl%C3%A9_Adeyemi",
+        "blurb": "Creator of the triangular Makoko Floating School, prototyping buoyant, adaptable timber structures for African waterfront communities facing rising seas.",
+        "works": [
+            "Makoko Floating School",
+            "Minne Floating School",
+            "Chicoco Radio",
+            "Black Rhino Academy"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": ""
+    },
+    {
+        "country": "Norway",
+        "name": "Kjetil Traedal Thorsen",
+        "born": "1958",
+        "died": "",
+        "city": "Oslo",
+        "wiki": "https://en.wikipedia.org/wiki/Kjetil_Tr%C3%A6dal_Thorsen",
+        "blurb": "Snohetta co-founder behind sweeping public landscapes you can walk upon, from Oslo's marble opera roof to Alexandria's tilted library.",
+        "works": [
+            "Oslo Opera House",
+            "Bibliotheca Alexandrina",
+            "9/11 Memorial Museum Pavilion",
+            "SFMOMA Expansion"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kjetil_Thorsen_showing_Sn%C3%B8hetta_%28cropped%29.jpg/500px-Kjetil_Thorsen_showing_Sn%C3%B8hetta_%28cropped%29.jpg",
+        "credit": "Fawaz.tairou",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Norway",
+        "name": "Sverre Fehn",
+        "born": "1924",
+        "died": "2009",
+        "city": "Oslo",
+        "wiki": "https://en.wikipedia.org/wiki/Sverre_Fehn",
+        "blurb": "Norwegian who married Nordic modernism to site and landscape, threading concrete, timber and light through ruins and raw terrain.",
+        "works": [
+            "Hedmark Museum",
+            "Norwegian Glacier Museum",
+            "Nordic Pavilion, Venice",
+            "Villa Busk"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sverre_Fehn_DEX_T_1954_006_%28cropped%29.jpg/500px-Sverre_Fehn_DEX_T_1954_006_%28cropped%29.jpg",
+        "credit": "Teigens Fotoatelier / Dextra Photo",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Pakistan",
+        "name": "Arif Hasan",
+        "born": "1943",
+        "died": "",
+        "city": "Karachi",
+        "wiki": "https://en.wikipedia.org/wiki/Arif_Hasan",
+        "blurb": "Architect-activist behind Karachi's Orangi Pilot Project, championing community-built sanitation and incremental low-income housing over top-down urban planning.",
+        "works": [
+            "Orangi Pilot Project",
+            "Khuda Ki Basti incremental housing scheme",
+            "Urban Resource Centre, Karachi"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": ""
+    },
+    {
+        "country": "Pakistan",
+        "name": "Habib Fida Ali",
+        "born": "1935",
+        "died": "2017",
+        "city": "Karachi",
+        "wiki": "https://en.wikipedia.org/wiki/Habib_Fida_Ali",
+        "blurb": "Restrained Pakistani modernist whose crisp corporate and campus buildings paired clean geometry with fine detail and quiet material discipline.",
+        "works": [
+            "Shell House (PSO House)",
+            "Indus Valley School of Art and Architecture",
+            "Textile Institute of Pakistan",
+            "Cavish Court"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": "",
+        "workphoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Indus_Valley_School_of_Art_and_Architecture.jpg/960px-Indus_Valley_School_of_Art_and_Architecture.jpg",
+        "workname": "Indus Valley School of Art and Architecture",
+        "workcredit": "Crosji",
+        "worklicense": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Pakistan",
+        "name": "Kamil Khan Mumtaz",
+        "born": "1939",
+        "died": "",
+        "city": "Lahore",
+        "wiki": "https://en.wikipedia.org/wiki/Kamil_Khan_Mumtaz",
+        "blurb": "Leading traditionalist reviving indigenous brick, lime and craft to give modern Pakistani buildings a cultural spirit of place.",
+        "works": [
+            "Shrine of Baba Hasan Din",
+            "Oxford University Press Headquarters",
+            "Har Sukh Mansion",
+            "Chand Bagh School"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": "",
+        "workphoto": "https://upload.wikimedia.org/wikipedia/commons/e/e4/CBS_Entrance.jpg",
+        "workname": "Chand Bagh School",
+        "workcredit": "Ambreen Mubasher",
+        "worklicense": "Public domain"
+    },
+    {
+        "country": "Pakistan",
+        "name": "Nayyar Ali Dada",
+        "born": "1943",
+        "died": "",
+        "city": "Lahore",
+        "wiki": "https://en.wikipedia.org/wiki/Nayyar_Ali_Dada",
+        "blurb": "Brick modernist whose Alhamra Arts Council became a defining landmark of contemporary Lahore architecture.",
+        "works": [
+            "Alhamra Arts Council",
+            "Shakir Ali Museum",
+            "Shaukat Khanum Memorial Cancer Hospital",
+            "Beaconhouse National University"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": "",
+        "workphoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alhamra_Arts_Council.jpg/960px-Alhamra_Arts_Council.jpg",
+        "workname": "Alhamra Arts Council (Lahore)",
+        "workcredit": "Hashem Nazar",
+        "worklicense": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Pakistan",
+        "name": "Yasmeen Lari",
+        "born": "1941",
+        "died": "",
+        "city": "Karachi",
+        "wiki": "https://en.wikipedia.org/wiki/Yasmeen_Lari",
+        "blurb": "Pakistan's first female architect, who turned from brutalist towers to zero-carbon humanitarian bamboo-and-lime architecture.",
+        "works": [
+            "Pakistan State Oil House",
+            "Finance and Trade Centre",
+            "Angoori Bagh Housing",
+            "Taj Mahal Hotel Karachi"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yasmeen_Lari_on_BBC_News.jpg/500px-Yasmeen_Lari_on_BBC_News.jpg",
+        "credit": "BBC Urdu",
+        "license": "CC BY 3.0"
+    },
+    {
+        "country": "Portugal",
+        "name": "Eduardo Souto de Moura",
+        "born": "1952",
+        "died": "",
+        "city": "Porto",
+        "wiki": "https://en.wikipedia.org/wiki/Eduardo_Souto_de_Moura",
+        "blurb": "Known for stark granite and concrete works of quiet monumentality rooted in the Portuguese landscape.",
+        "works": [
+            "Braga Municipal Stadium",
+            "Paula Rego Museum",
+            "Burgo Tower",
+            "Santa Maria do Bouro convent"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Eduardo_Souto_de_Moura.jpg",
+        "credit": "Roberto Santorini",
+        "license": "CC BY-SA 2.0"
+    },
+    {
+        "country": "Portugal",
+        "name": "Fernando Távora",
+        "born": "1923",
+        "died": "2005",
+        "city": "Porto",
+        "wiki": "https://en.wikipedia.org/wiki/Fernando_T%C3%A1vora",
+        "blurb": "Father of the Porto School who wove Portuguese vernacular craft and site with modern rigour into gently rooted buildings.",
+        "works": [
+            "Quinta da Conceição Park Pavilion",
+            "Casa de Ofir",
+            "Pousada de Santa Marinha",
+            "Vila da Feira Market"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": "",
+        "workphoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pousada_de_Guimar%C3%A3es_-_Santa_Marinha_-_Portugal_%288024277134%29.jpg/960px-Pousada_de_Guimar%C3%A3es_-_Santa_Marinha_-_Portugal_%288024277134%29.jpg",
+        "workname": "Pousada de Santa Marinha",
+        "workcredit": "Vitor Oliveira from Torres Vedras, PORTUGAL",
+        "worklicense": "CC BY-SA 2.0"
+    },
+    {
+        "country": "Portugal",
+        "name": "Álvaro Siza",
+        "born": "1933",
+        "died": "",
+        "city": "Porto",
+        "wiki": "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira",
+        "blurb": "Master of restrained poetic modernism, sculpting light and white geometry precisely to landscape and site.",
+        "works": [
+            "Leça Swimming Pools",
+            "Church of Santa Maria",
+            "Serralves Museum",
+            "Portuguese National Pavilion"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Siza_Vieira_na_Exponor_%283x4_cropped%29.JPG/500px-Siza_Vieira_na_Exponor_%283x4_cropped%29.JPG",
+        "credit": "Manuel de Sousa",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "Spain",
+        "name": "Antoni Gaudí",
+        "born": "1852",
+        "died": "1926",
+        "city": "Barcelona",
+        "wiki": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
+        "blurb": "Pioneer of Catalan Modernisme whose organic, nature-inspired forms and mosaic surfaces defined Barcelona's cityscape.",
+        "works": [
+            "Sagrada Família",
+            "Casa Batlló",
+            "Park Güell",
+            "Casa Milà"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Antoni_Gaudi_1878.jpg/500px-Antoni_Gaudi_1878.jpg",
+        "credit": "Pau Audouard Deglaire",
+        "license": "Public domain"
+    },
+    {
+        "country": "Spain",
+        "name": "Enric Miralles",
+        "born": "1955",
+        "died": "2000",
+        "city": "Barcelona",
+        "wiki": "https://en.wikipedia.org/wiki/Enric_Miralles",
+        "blurb": "Catalan visionary of restless fractured geometries whose layered, hand-drawn landscapes fused buildings into their terrain before his early death.",
+        "works": [
+            "Scottish Parliament Building",
+            "Santa Caterina Market",
+            "Igualada Cemetery",
+            "Huesca Sports Hall"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": "",
+        "workphoto": "https://upload.wikimedia.org/wikipedia/commons/d/da/Scottish_Parliament_Building_-_geograph.org.uk_-_2343694.jpg",
+        "workname": "Scottish Parliament Building",
+        "workcredit": "N Chadwick",
+        "worklicense": "CC BY-SA 2.0"
+    },
+    {
+        "country": "Spain",
+        "name": "RCR Arquitectes",
+        "born": "1988",
+        "died": "",
+        "city": "Olot",
+        "wiki": "https://en.wikipedia.org/wiki/RCR_Arquitectes",
+        "blurb": "Pritzker-winning Catalan trio whose weathered-steel pavilions dissolve into landscape, framing light, water and shadow with poetic restraint.",
+        "works": [
+            "Soulages Museum",
+            "Bell-Lloc Winery",
+            "Les Cols Restaurant Marquee",
+            "La Lira Theater Public Space"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rafael_Aranda.jpg/500px-Rafael_Aranda.jpg",
+        "credit": "Maritza Ríos / Secretaría de Cultura CDMX",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "Spain",
+        "name": "Rafael Moneo",
+        "born": "1937",
+        "died": "",
+        "city": "Madrid",
+        "wiki": "https://en.wikipedia.org/wiki/Rafael_Moneo",
+        "blurb": "Contextual rationalist whose museums and civic buildings weave modern order with the historical memory of place.",
+        "works": [
+            "National Museum of Roman Art",
+            "Kursaal Congress Centre",
+            "Cathedral of Our Lady of the Angels",
+            "Prado Museum extension"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Autor_Germ%C3%A1n_Saiz_%C2%A9_Rafael_Moneo.jpg/500px-Autor_Germ%C3%A1n_Saiz_%C2%A9_Rafael_Moneo.jpg",
+        "credit": "Germán Saiz",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Spain",
+        "name": "Ricardo Bofill",
+        "born": "1939",
+        "died": "2022",
+        "city": "Barcelona",
+        "wiki": "https://en.wikipedia.org/wiki/Ricardo_Bofill",
+        "blurb": "Led Taller de Arquitectura, famed for monumental postmodern housing and the poetic reuse of industrial ruins.",
+        "works": [
+            "Walden 7",
+            "La Fábrica",
+            "Les Espaces d'Abraxas",
+            "La Muralla Roja"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ricardo_bofill_levi.jpg",
+        "credit": "Reexporta",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "Spain",
+        "name": "Santiago Calatrava",
+        "born": "1951",
+        "died": "",
+        "city": "Valencia",
+        "wiki": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
+        "blurb": "Engineer-architect known for sculptural white skeletal structures inspired by the human body and natural forms.",
+        "works": [
+            "City of Arts and Sciences",
+            "Turning Torso",
+            "World Trade Center Transportation Hub",
+            "Milwaukee Art Museum"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Santiago_Calatrava_%28cropped%29.jpg/500px-Santiago_Calatrava_%28cropped%29.jpg",
+        "credit": "Wilson Center",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "Sri Lanka",
+        "name": "Geoffrey Bawa",
+        "born": "1919",
+        "died": "2003",
+        "city": "Colombo",
+        "wiki": "https://en.wikipedia.org/wiki/Geoffrey_Bawa",
+        "blurb": "Father of tropical modernism, weaving open courtyards, water and lush landscape into buildings that breathe with Sri Lanka's climate.",
+        "works": [
+            "Sri Lankan Parliament, Kotte",
+            "Heritance Kandalama Hotel",
+            "Lunuganga estate",
+            "Bentota Beach Hotel"
+        ],
+        "photo": "",
+        "credit": "",
+        "license": "",
+        "workphoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Heritance_Kandalama_Exterior_View.JPG/960px-Heritance_Kandalama_Exterior_View.JPG",
+        "workname": "Heritance Kandalama Hotel",
+        "workcredit": "Adheesha88",
+        "worklicense": "CC BY-SA 3.0"
+    },
+    {
+        "country": "Sri Lanka",
+        "name": "Minnette de Silva",
+        "born": "1918",
+        "died": "1998",
+        "city": "Kandy",
+        "wiki": "https://en.wikipedia.org/wiki/Minnette_de_Silva",
+        "blurb": "Trailblazing pioneer of modern regionalism who fused Corbusier's ideas with Sri Lankan crafts, courtyards and vernacular building traditions.",
+        "works": [
+            "Karunaratne House, Kandy",
+            "Watapuluwa Housing Scheme",
+            "Amarasinghe House",
+            "Senanayake Flats, Colombo"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Minnette_de_Silva_na_Kongresie_Intelektualist%C3%B3w.png",
+        "credit": "PAP",
+        "license": "Public domain"
+    },
+    {
+        "country": "Sweden",
+        "name": "Gunnar Asplund",
+        "born": "1885",
+        "died": "1940",
+        "city": "Stockholm",
+        "wiki": "https://en.wikipedia.org/wiki/Gunnar_Asplund",
+        "blurb": "Swedish master who fused stripped classicism with modernism, shaping the serene, landscape-woven spaces of Stockholm's Woodland Cemetery.",
+        "works": [
+            "Woodland Cemetery",
+            "Stockholm Public Library",
+            "Woodland Chapel",
+            "Gothenburg City Hall extension"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gunnar_Asplund_1940.jpg/500px-Gunnar_Asplund_1940.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "Sweden",
+        "name": "Sigurd Lewerentz",
+        "born": "1885",
+        "died": "1975",
+        "city": "Stockholm",
+        "wiki": "https://en.wikipedia.org/wiki/Sigurd_Lewerentz",
+        "blurb": "Uncompromising Swede whose late brick churches, laid without cut bricks, turned raw material and dim light into sacred atmosphere.",
+        "works": [
+            "St Peter's Church, Klippan",
+            "St Mark's Church, Bjorkhagen",
+            "Woodland Cemetery",
+            "Flower Kiosk, Malmo"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sigurd_Lewerentz_ARKM.1973-103-098-002.jpg/500px-Sigurd_Lewerentz_ARKM.1973-103-098-002.jpg",
+        "credit": "Karl-Erik Olsson-Snogerod",
+        "license": "CC0"
+    },
+    {
+        "country": "Switzerland",
+        "name": "Bernard Tschumi",
+        "born": "1944",
+        "died": "",
+        "city": "Lausanne",
+        "wiki": "https://en.wikipedia.org/wiki/Bernard_Tschumi",
+        "blurb": "Deconstructivist theorist who scattered bright red follies across Paris, arguing architecture is defined by events and movement, not form.",
+        "works": [
+            "Parc de la Villette",
+            "Acropolis Museum",
+            "Le Fresnoy Art Centre",
+            "Blue Tower New York"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bernard_Tschumi_at_GSAPP.jpg/500px-Bernard_Tschumi_at_GSAPP.jpg",
+        "credit": "Columbia GSAPP",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "Switzerland",
+        "name": "Herzog & de Meuron",
+        "born": "1950",
+        "died": "",
+        "city": "Basel",
+        "wiki": "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
+        "blurb": "Basel duo turning simple volumes into extraordinary surfaces, from a converted power station to a woven steel stadium.",
+        "works": [
+            "Tate Modern",
+            "Beijing National Stadium",
+            "Allianz Arena",
+            "Elbphilharmonie"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Jacques_Herzog_2025.jpg/500px-Jacques_Herzog_2025.jpg",
+        "credit": "Quaenuncabibis",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Switzerland",
+        "name": "Mario Botta",
+        "born": "1943",
+        "died": "",
+        "city": "Lugano",
+        "wiki": "https://en.wikipedia.org/wiki/Mario_Botta",
+        "blurb": "Ticinese master of geometric, symmetrical volumes in striped brick and stone, spanning banks, houses, churches and museums.",
+        "works": [
+            "SFMOMA",
+            "Santa Maria degli Angeli chapel, Monte Tamaro",
+            "Church of San Giovanni Battista, Mogno",
+            "Évry Cathedral"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mario_Botta_-_Festival_Economia_2016.jpg/500px-Mario_Botta_-_Festival_Economia_2016.jpg",
+        "credit": "Niccolò Caranti",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Switzerland",
+        "name": "Peter Zumthor",
+        "born": "1943",
+        "died": "",
+        "city": "Haldenstein",
+        "wiki": "https://en.wikipedia.org/wiki/Peter_Zumthor",
+        "blurb": "Pritzker laureate of atmosphere and materiality, crafting slow, sensory buildings rooted in site, texture and light.",
+        "works": [
+            "Therme Vals",
+            "Kunsthaus Bregenz",
+            "Bruder Klaus Field Chapel",
+            "Kolumba Museum"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Peter_Zumthor.jpg/500px-Peter_Zumthor.jpg",
+        "credit": "KovacsDaniel",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Thailand",
+        "name": "Duangrit Bunnag",
+        "born": "1966",
+        "died": "",
+        "city": "Bangkok",
+        "wiki": "https://en.wikipedia.org/wiki/Duangrit_Bunnag",
+        "blurb": "Reinvents warehouses and resorts with raw, tropical modernism, turning riverside industry into vibrant creative and communal destinations.",
+        "works": [
+            "The Jam Factory, Bangkok",
+            "Naka Phuket",
+            "The Commons, Bangkok",
+            "Alila Cha-Am"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Duangrit_Bunnag.jpg/500px-Duangrit_Bunnag.jpg",
+        "credit": "Supanut Arunoprayote",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "Turkey",
+        "name": "Mimar Sinan",
+        "born": "1489",
+        "died": "1588",
+        "city": "Istanbul",
+        "wiki": "https://en.wikipedia.org/wiki/Mimar_Sinan",
+        "blurb": "Chief Ottoman court architect who perfected the domed mosque, crowning classical Ottoman architecture with the Selimiye.",
+        "works": [
+            "Selimiye Mosque",
+            "Suleymaniye Mosque",
+            "Sehzade Mosque",
+            "Mostar's Stari Most influence"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Lokman_1579_detail_showing_Sinan_%28cropped%29.jpg",
+        "credit": "Nakkas Osman",
+        "license": "Public domain"
+    },
+    {
+        "country": "United Kingdom",
+        "name": "Christopher Wren",
+        "born": "1632",
+        "died": "1723",
+        "city": "London",
+        "wiki": "https://en.wikipedia.org/wiki/Christopher_Wren",
+        "blurb": "Defined English Baroque, rebuilding fifty City churches after the Great Fire and crowning London with the vast dome of St Paul's.",
+        "works": [
+            "St Paul's Cathedral",
+            "Royal Hospital Chelsea",
+            "Sheldonian Theatre",
+            "St Stephen Walbrook"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Christopher_Wren_by_Godfrey_Kneller_1711.jpg/500px-Christopher_Wren_by_Godfrey_Kneller_1711.jpg",
+        "credit": "Godfrey Kneller",
+        "license": "Public domain"
+    },
+    {
+        "country": "United Kingdom",
+        "name": "David Chipperfield",
+        "born": "1953",
+        "died": "",
+        "city": "London",
+        "wiki": "https://en.wikipedia.org/wiki/David_Chipperfield",
+        "blurb": "Restrained modernist celebrated for material precision and the sensitive restoration of damaged historic buildings.",
+        "works": [
+            "Neues Museum, Berlin",
+            "The Hepworth Wakefield",
+            "America's Cup Building, Valencia",
+            "River and Rowing Museum"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/David_Chipperfield.JPG/500px-David_Chipperfield.JPG",
+        "credit": "Bruno Cordioli",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "United Kingdom",
+        "name": "Edwin Lutyens",
+        "born": "1869",
+        "died": "1944",
+        "city": "London",
+        "wiki": "https://en.wikipedia.org/wiki/Edwin_Lutyens",
+        "blurb": "Master of the Edwardian country house who fused classical grandeur with English craft, from Castle Drogo to New Delhi's imperial capital.",
+        "works": [
+            "The Cenotaph, Whitehall",
+            "Viceroy's House, New Delhi",
+            "Thiepval Memorial",
+            "Castle Drogo"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Edwin_Lutyens.jpg/500px-Edwin_Lutyens.jpg",
+        "credit": "Lawrence Weaver",
+        "license": "Public domain"
+    },
+    {
+        "country": "United Kingdom",
+        "name": "Norman Foster",
+        "born": "1935",
+        "died": "",
+        "city": "London",
+        "wiki": "https://en.wikipedia.org/wiki/Norman_Foster_(architect)",
+        "blurb": "High-tech pioneer known for sleek steel-and-glass towers and structurally expressive, energy-conscious engineering.",
+        "works": [
+            "30 St Mary Axe (The Gherkin)",
+            "Millau Viaduct",
+            "HSBC Building, Hong Kong",
+            "Reichstag dome, Berlin"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Norman_Foster_dresden_061110.jpg/500px-Norman_Foster_dresden_061110.jpg",
+        "credit": "bigbug21",
+        "license": "CC BY-SA 2.5"
+    },
+    {
+        "country": "United Kingdom",
+        "name": "Richard Rogers",
+        "born": "1933",
+        "died": "2021",
+        "city": "London",
+        "wiki": "https://en.wikipedia.org/wiki/Richard_Rogers",
+        "blurb": "Co-founder of high-tech architecture, famed for pushing structure and services to a building's colourful exterior.",
+        "works": [
+            "Centre Pompidou, Paris",
+            "Lloyd's building, London",
+            "Millennium Dome",
+            "Madrid-Barajas Airport Terminal 4"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Richard_Rogers_-_Portrait_2008_%283x4_cropped%29.jpg/500px-Richard_Rogers_-_Portrait_2008_%283x4_cropped%29.jpg",
+        "credit": "Andrew Zuckerman",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "United Kingdom",
+        "name": "Thomas Heatherwick",
+        "born": "1970",
+        "died": "",
+        "city": "London",
+        "wiki": "https://en.wikipedia.org/wiki/Thomas_Heatherwick",
+        "blurb": "Blends sculpture, engineering and craft into experiential landmarks, from the Seed Cathedral to New York's climbable Vessel and Little Island.",
+        "works": [
+            "UK Pavilion (Seed Cathedral), Shanghai Expo",
+            "Vessel, New York",
+            "Coal Drops Yard, London",
+            "Little Island, New York"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Thomas_Heatherwick_at_Strelka_Institute.jpg/500px-Thomas_Heatherwick_at_Strelka_Institute.jpg",
+        "credit": "Strelka Institute for Media, Architecture and Design",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "United Kingdom",
+        "name": "Zaha Hadid",
+        "born": "1950",
+        "died": "2016",
+        "city": "London",
+        "wiki": "https://en.wikipedia.org/wiki/Zaha_Hadid",
+        "blurb": "Pioneer of neo-futurist parametric design defined by sweeping curves and fluid, seemingly gravity-defying forms.",
+        "works": [
+            "Heydar Aliyev Center, Baku",
+            "London Aquatics Centre",
+            "MAXXI, Rome",
+            "Guangzhou Opera House"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg/500px-Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg",
+        "credit": "Dmitry Ternovoy",
+        "license": "Free Art License"
+    },
+    {
+        "country": "United States",
+        "name": "Daniel Libeskind",
+        "born": "1946",
+        "died": "",
+        "city": "New York City",
+        "wiki": "https://en.wikipedia.org/wiki/Daniel_Libeskind",
+        "blurb": "Creates jagged, deconstructivist forms charged with memory and emotion, from the zinc-clad Jewish Museum Berlin to Ground Zero's master plan.",
+        "works": [
+            "Jewish Museum Berlin",
+            "World Trade Center master plan",
+            "Imperial War Museum North",
+            "Denver Art Museum extension"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Daniel_Libeskind_2011.jpg/500px-Daniel_Libeskind_2011.jpg",
+        "credit": "Bundeswehr-Fotos",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "United States",
+        "name": "Eero Saarinen",
+        "born": "1910",
+        "died": "1961",
+        "city": "Bloomfield Hills, Michigan",
+        "wiki": "https://en.wikipedia.org/wiki/Eero_Saarinen",
+        "blurb": "Sculpted mid-century modernism into soaring, expressive curves, turning airports and monuments into swooping structural gestures of flight and motion.",
+        "works": [
+            "Gateway Arch",
+            "TWA Flight Center",
+            "Dulles International Airport",
+            "MIT Kresge Auditorium"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Eero-Saarinen_%28cropped%29.jpg/500px-Eero-Saarinen_%28cropped%29.jpg",
+        "credit": "Balthazar Korab",
+        "license": "Public domain"
+    },
+    {
+        "country": "United States",
+        "name": "Frank Lloyd Wright",
+        "born": "1867",
+        "died": "1959",
+        "city": "Chicago",
+        "wiki": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
+        "blurb": "Pioneer of organic architecture, weaving Prairie-style houses and flowing interiors into their natural landscapes.",
+        "works": [
+            "Fallingwater",
+            "Solomon R. Guggenheim Museum",
+            "Robie House",
+            "Taliesin West"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frank_Lloyd_Wright_portrait.jpg/500px-Frank_Lloyd_Wright_portrait.jpg",
+        "credit": "New York World-Telegram and the Sun staff photographer: Al Ravenna",
+        "license": "Public domain"
+    },
+    {
+        "country": "United States",
+        "name": "Jeanne Gang",
+        "born": "1964",
+        "died": "",
+        "city": "Chicago",
+        "wiki": "https://en.wikipedia.org/wiki/Jeanne_Gang",
+        "blurb": "Shapes sculptural, ecologically driven towers like the rippling Aqua, using structure to connect people with nature and community.",
+        "works": [
+            "Aqua Tower",
+            "St. Regis Chicago",
+            "Writers Theatre",
+            "Solar Carve Tower"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jeanne_Gang.jpg/500px-Jeanne_Gang.jpg",
+        "credit": "Kramesarah",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "United States",
+        "name": "Louis Kahn",
+        "born": "1901",
+        "died": "1974",
+        "city": "Philadelphia",
+        "wiki": "https://en.wikipedia.org/wiki/Louis_Kahn",
+        "blurb": "Master of monumental modernism, shaping weighty masonry, pure geometry and choreographed natural light.",
+        "works": [
+            "Salk Institute",
+            "Kimbell Art Museum",
+            "National Assembly Building of Bangladesh",
+            "Yale Center for British Art"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/LouisKahn.jpg",
+        "credit": "Francalb89",
+        "license": "CC BY-SA 4.0"
+    },
+    {
+        "country": "United States",
+        "name": "Louis Sullivan",
+        "born": "1856",
+        "died": "1924",
+        "city": "Chicago",
+        "wiki": "https://en.wikipedia.org/wiki/Louis_Sullivan",
+        "blurb": "Coined \"form follows function\" and shaped the first steel skyscrapers with ornamented, vertically expressed towers that defined the Chicago School.",
+        "works": [
+            "Wainwright Building",
+            "Guaranty Building",
+            "Carson Pirie Scott Store",
+            "Auditorium Building"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Louis_Sullivan_circa_1895.jpg/500px-Louis_Sullivan_circa_1895.jpg",
+        "credit": "Unknown author",
+        "license": "Public domain"
+    },
+    {
+        "country": "United States",
+        "name": "Michael Graves",
+        "born": "1934",
+        "died": "2015",
+        "city": "Princeton, New Jersey",
+        "wiki": "https://en.wikipedia.org/wiki/Michael_Graves",
+        "blurb": "Led postmodernism with playful, colorful, historically referenced buildings and household objects that reintroduced ornament and wit to design.",
+        "works": [
+            "Portland Building",
+            "Denver Public Library",
+            "Humana Building",
+            "Team Disney Building"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Michael_Graves%2C_architect%2C_Princeton%2C_N.J.jpg/500px-Michael_Graves%2C_architect%2C_Princeton%2C_N.J.jpg",
+        "credit": "Bernard Gotfryd",
+        "license": "Public domain"
+    },
+    {
+        "country": "United States",
+        "name": "Peter Eisenman",
+        "born": "1932",
+        "died": "",
+        "city": "New York City",
+        "wiki": "https://en.wikipedia.org/wiki/Peter_Eisenman",
+        "blurb": "Pioneered a cerebral, deconstructivist architecture of fractured grids and theory-driven form that questioned meaning and structure itself.",
+        "works": [
+            "Memorial to the Murdered Jews of Europe",
+            "City of Culture of Galicia",
+            "Wexner Center for the Arts",
+            "House VI"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Peter_Eisenman_at_GSAPP.jpg/500px-Peter_Eisenman_at_GSAPP.jpg",
+        "credit": "Columbia GSAPP",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "United States",
+        "name": "Philip Johnson",
+        "born": "1906",
+        "died": "2005",
+        "city": "New York City",
+        "wiki": "https://en.wikipedia.org/wiki/Philip_Johnson",
+        "blurb": "Brought the glassy International Style to America, then pivoted to playful postmodernism.",
+        "works": [
+            "Glass House",
+            "Seagram Building",
+            "550 Madison Avenue (AT&T Building)",
+            "Crystal Cathedral"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Philip_Johnson.2002.FILARDO.jpg/500px-Philip_Johnson.2002.FILARDO.jpg",
+        "credit": "B. Pietro Filardo",
+        "license": "CC BY-SA 3.0"
+    },
+    {
+        "country": "United States",
+        "name": "Richard Meier",
+        "born": "1934",
+        "died": "",
+        "city": "New York City",
+        "wiki": "https://en.wikipedia.org/wiki/Richard_Meier",
+        "blurb": "Builds luminous white, geometrically pure buildings flooded with natural light, extending the rationalist legacy of early European modernism.",
+        "works": [
+            "Getty Center",
+            "Barcelona Museum of Contemporary Art",
+            "Jubilee Church",
+            "High Museum of Art"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Richard_Meier_at_the_2009_Tribeca_Film_Festival.jpg/500px-Richard_Meier_at_the_2009_Tribeca_Film_Festival.jpg",
+        "credit": "David Shankbone",
+        "license": "CC BY 3.0"
+    },
+    {
+        "country": "United States",
+        "name": "Robert Venturi",
+        "born": "1925",
+        "died": "2018",
+        "city": "Philadelphia",
+        "wiki": "https://en.wikipedia.org/wiki/Robert_Venturi",
+        "blurb": "Father of postmodernism who countered \"less is more\" with complexity, symbolism and everyday vernacular.",
+        "works": [
+            "Vanna Venturi House",
+            "Sainsbury Wing, National Gallery",
+            "Seattle Art Museum",
+            "Guild House"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Robert_Venturi_2008_Rome_%28cropped%29.jpg",
+        "credit": "todd sheridan from New York, United States",
+        "license": "CC BY-SA 2.0"
+    },
+    {
+        "country": "United States",
+        "name": "Steven Holl",
+        "born": "1947",
+        "died": "",
+        "city": "New York City",
+        "wiki": "https://en.wikipedia.org/wiki/Steven_Holl",
+        "blurb": "Designs phenomenological architecture where light, water, and material craft spatial experience, from Helsinki's Kiasma to porous urban hybrids.",
+        "works": [
+            "Kiasma Museum of Contemporary Art",
+            "Simmons Hall, MIT",
+            "Nelson-Atkins Museum Bloch Building",
+            "Linked Hybrid"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Steven_Holl.jpg/500px-Steven_Holl.jpg",
+        "credit": "Museum of Contemporary Art Kiasma, Finland",
+        "license": "CC BY 2.0"
+    },
+    {
+        "country": "Vietnam",
+        "name": "Vo Trong Nghia",
+        "born": "1976",
+        "died": "",
+        "city": "Ho Chi Minh City",
+        "wiki": "https://en.wikipedia.org/wiki/Vo_Trong_Nghia",
+        "blurb": "Champions bamboo and greenery as structure, bringing trees, gardens and low-cost natural materials back into dense tropical cities.",
+        "works": [
+            "Bamboo Wings",
+            "House for Trees",
+            "Stacking Green",
+            "FPT University, Hanoi"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/2/23/VO_TRONG_NGHIA.jpg",
+        "credit": "Canhc9",
+        "license": "CC BY-SA 3.0"
+    }
+]
