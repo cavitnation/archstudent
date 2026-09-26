@@ -4,8 +4,9 @@ $PAGE_DESC  = 'Leave feedback, a tip, or a shout-out for fellow architecture stu
 $CANONICAL  = '/community/';
 include $_SERVER['DOCUMENT_ROOT'].'/_header.php';
 
-$f = $_SERVER['DOCUMENT_ROOT'].'/data/community.json';
-$all = is_file($f) ? (json_decode(file_get_contents($f), true) ?: []) : [];
+require_once dirname(__DIR__) . '/_private.php';
+try { $all = as_read_records(as_data_file('community.json')); }
+catch (Throwable $e) { $all = []; error_log('ArchStudent community storage unavailable.'); }
 $approved = array_values(array_filter($all, fn($c)=>($c['status'] ?? '')==='approved'));
 usort($approved, fn($a,$b)=>strcmp($b['ts'] ?? '', $a['ts'] ?? ''));
 $sent = isset($_GET['sent']);

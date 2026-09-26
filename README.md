@@ -23,12 +23,32 @@ ArchStudent is a content platform I designed and built for architecture students
 
 ## Built with
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SEO](https://img.shields.io/badge/SEO-1a7f37?style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SEO](https://img.shields.io/badge/SEO-1a7f37?style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## About this repository
+## Public source and local setup
 
-This is a **case study** of a production project I designed, built and maintain. The application is live at **[archstudent.com](https://archstudent.com/)**. The source code is proprietary and kept private — this page documents the work and the engineering behind it.
+This repository contains a PHP/JavaScript source snapshot, JSON reference datasets and static assets. It may differ from the live deployment. Subscriber records, community records, credentials and backups are excluded from public source. Public visibility does not grant an open-source license; no general reuse license is provided here.
 
----
+The community wall uses private JSON storage, reviewed posts and authenticated moderation. Changes require POST requests and CSRF validation. Runtime records live outside the web document root.
 
-<sub>Built by <b><a href="https://jeemmo.com/">Azeem Javed (Jeemmo)</a></b> · <a href="https://www.linkedin.com/in/azeem-javed-7666861a/">LinkedIn</a> · Jeemmo is the trading name of Verivello Ltd, a UK-registered company.</sub>
+**Before deploying to an existing installation, read [DEPLOYMENT.md](DEPLOYMENT.md).** Migrate existing records before updating files, and configure a new administrator password hash. Existing data must not be replaced with an empty store.
+
+For public-page inspection with PHP 8.2+:
+
+```sh
+php -S 127.0.0.1:8080 -t .
+```
+
+The PHP development server is not a production deployment. See the deployment guide for required extensions, HTTPS, mail delivery, server access rules and rollback.
+
+## Verification
+
+GitHub Actions checks PHP syntax on PHP 8.3/8.4/8.5 and runs private-storage, data-migration, authentication and CSRF regressions using synthetic records. Run them locally with the commands in [DEPLOYMENT.md](DEPLOYMENT.md).
+
+## Engineering notes
+
+The shared header builds canonical links and structured metadata; country/person pages reuse renderers and JSON datasets. These keep content changes separate from templates. Private runtime records use locked updates and atomic replacement, avoiding partial JSON writes. The deployment's trusted proxy configuration is responsible for establishing the client IP.
+
+No production traffic, uptime, or performance benchmark is asserted by this repository. Report security concerns privately using [SECURITY.md](SECURITY.md).
+
+Built by [Azeem Javed / Jeemmo](https://jeemmo.com/) · [LinkedIn](https://www.linkedin.com/in/azeem-javed-7666861a/).

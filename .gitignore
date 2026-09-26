@@ -5,3 +5,14 @@ cache/*.db
 *.bak-*
 *.bak.*
 # secrets live in /var/www/private/ (outside repo)
+
+/data/subscribers.json
+/data/community.json
+.env
+.env.*
+!.env.example
+/private/
+*.lock
+
+__pycache__/
+*.pyc

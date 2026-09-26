@@ -1,64 +1,64 @@
 <?php
-/* Private moderation dashboard for the student wall. Gated by a secret key.
-   Lists pending + published messages with one-click approve / delete. */
-$KEY = 'p0SXo6yVcaan';
-$key = $_GET['key'] ?? ($_POST['key'] ?? '');
-if (!hash_equals($KEY, (string)$key)) { http_response_code(404); exit('Not Found'); }
-
-$f = $_SERVER['DOCUMENT_ROOT'].'/data/community.json';
-$msg = '';
-// handle an action
-if (($_GET['do'] ?? '') && ($_GET['id'] ?? '') && is_file($f)) {
-  $id = $_GET['id']; $do = $_GET['do'];
-  $fp = fopen($f, 'c+');
-  if ($fp) { flock($fp, LOCK_EX);
-    $list = json_decode(stream_get_contents($fp), true) ?: [];
-    foreach ($list as $k => $c) {
-      if (($c['id'] ?? '') === $id) {
-        if ($do === 'approve') { $list[$k]['status']='approved'; $msg='Approved.'; }
-        elseif ($do === 'pending') { $list[$k]['status']='pending'; $msg='Moved back to pending.'; }
-        elseif ($do === 'delete') { array_splice($list, $k, 1); $msg='Deleted.'; }
-        break;
-      }
-    }
-    ftruncate($fp, 0); rewind($fp); fwrite($fp, json_encode($list, JSON_UNESCAPED_SLASHES|JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE));
-    flock($fp, LOCK_UN); fclose($fp);
-  }
+declare(strict_types=1);
+require_once dirname(__DIR__) . '/_private.php';
+as_start_session();
+$hash = getenv('ARCHSTUDENT_ADMIN_PASSWORD_HASH') ?: '';
+if ($hash === '' || (password_get_info($hash)['algoName'] ?? 'unknown') === 'unknown') {
+    http_response_code(503); exit('Moderation is unavailable until an administrator configures access.');
 }
-$all = is_file($f) ? (json_decode(file_get_contents($f), true) ?: []) : [];
-usort($all, fn($a,$b)=>strcmp($b['ts']??'', $a['ts']??''));
-$pending  = array_filter($all, fn($c)=>($c['status']??'')==='pending');
-$approved = array_filter($all, fn($c)=>($c['status']??'')==='approved');
-function e($s){ return htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8'); }
-$L = function($c,$do,$label,$col) use($KEY){ return '<a href="?key='.$KEY.'&id='.e($c['id']).'&do='.$do.'" style="color:'.$col.';font-weight:600;margin-right:14px;font-size:13px">'.$label.'</a>'; };
-?><!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Wall moderation</title><meta name="robots" content="noindex,nofollow">
-<style>body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:760px;margin:32px auto;padding:0 18px;color:#1f2733}
-h1{font-size:22px}h2{font-size:15px;text-transform:uppercase;letter-spacing:.05em;color:#8a8378;margin:28px 0 10px}
-.card{border:1px solid #e3e7ee;border-radius:12px;padding:14px 16px;margin:10px 0;background:#fff}
-.card .m{font-size:15px;line-height:1.5;white-space:pre-wrap}
-.card .who{font-size:12.5px;color:#7a8699;margin:8px 0 10px}
-.ok{background:#e6f4ea;border:1px solid #97d4ab;color:#1a7a43;padding:10px 14px;border-radius:8px}
-.empty{color:#8a8378}</style></head><body>
-<h1>Student wall — moderation</h1>
-<?php if($msg): ?><div class="ok"><?=e($msg)?></div><?php endif; ?>
-
-<h2>Pending (<?=count($pending)?>)</h2>
-<?php if(!$pending): ?><p class="empty">Nothing waiting. 🎉</p><?php else: foreach($pending as $c): ?>
-  <div class="card">
-    <div class="m"><?=e($c['message']??'')?></div>
-    <div class="who">— <?= $c['name']?e($c['name']):'Anonymous' ?><?= !empty($c['school'])?', '.e($c['school']):'' ?> · <?=e(date('j M Y H:i', strtotime($c['ts']??'now')))?> · IP <?=e($c['ip']??'')?></div>
-    <?= $L($c,'approve','✓ Approve','#1a7a43') ?><?= $L($c,'delete','✕ Delete','#b3261e') ?>
-  </div>
-<?php endforeach; endif; ?>
-
-<h2>Published (<?=count($approved)?>)</h2>
-<?php if(!$approved): ?><p class="empty">None yet.</p><?php else: foreach($approved as $c): ?>
-  <div class="card">
-    <div class="m"><?=e($c['message']??'')?></div>
-    <div class="who">— <?= $c['name']?e($c['name']):'Anonymous' ?><?= !empty($c['school'])?', '.e($c['school']):'' ?> · <?=e(date('j M Y', strtotime($c['ts']??'now')))?></div>
-    <?= $L($c,'pending','↩ Unpublish','#a9631a') ?><?= $L($c,'delete','✕ Delete','#b3261e') ?>
-  </div>
-<?php endforeach; endif; ?>
-<p style="margin-top:24px"><a href="/community/">← View the public wall</a></p>
-</body></html>
+function e($s): string { return htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8'); }
+$message = '';
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    if (!as_csrf_valid(is_string($_POST['csrf'] ?? null) ? $_POST['csrf'] : null)) { http_response_code(403); exit('Invalid request.'); }
+    $action = $_POST['action'] ?? '';
+    if ($action === 'login') {
+        if (($_SESSION['login_after'] ?? 0) > time()) { http_response_code(429); exit('Please wait before trying again.'); }
+        $_SESSION['login_after'] = time() + 3;
+        if (is_string($_POST['password'] ?? null) && password_verify($_POST['password'], $hash)) {
+            session_regenerate_id(true);
+            $_SESSION['auth_version'] = hash('sha256', $hash);
+            $_SESSION['auth_until'] = time() + 1200;
+            $_SESSION['csrf'] = bin2hex(random_bytes(32));
+            header('Location: /community/manage.php', true, 303); exit;
+        }
+        $message = 'Sign-in failed.';
+    } elseif ($action === 'logout') {
+        $_SESSION = []; session_destroy(); header('Location: /community/manage.php', true, 303); exit;
+    } else {
+        if (!as_admin_authenticated($hash)) { http_response_code(403); exit('Sign in first.'); }
+        if (!in_array($action, ['approve', 'pending', 'delete'], true) || !is_string($_POST['id'] ?? null)) { http_response_code(400); exit('Invalid action.'); }
+        try {
+            as_update_records(as_data_file('community.json'), function (array &$records) use ($action): void {
+                foreach ($records as $i => $record) {
+                    if (($record['id'] ?? '') !== $_POST['id']) continue;
+                    if ($action === 'delete') array_splice($records, $i, 1);
+                    else { $records[$i]['status'] = $action === 'approve' ? 'approved' : 'pending'; unset($records[$i]['token']); }
+                    break;
+                }
+            });
+        } catch (Throwable $e) { error_log('ArchStudent moderation storage failure.'); http_response_code(503); exit('Storage is unavailable.'); }
+        header('Location: /community/manage.php', true, 303); exit;
+    }
+}
+$authenticated = as_admin_authenticated($hash);
+$records = [];
+if ($authenticated) {
+    try { $records = as_read_records(as_data_file('community.json')); }
+    catch (Throwable $e) { http_response_code(503); exit('Storage is unavailable.'); }
+    usort($records, fn($a, $b) => strcmp($b['ts'] ?? '', $a['ts'] ?? ''));
+}
+?><!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Student wall moderation</title>
+<style>body{font:16px system-ui;max-width:760px;margin:40px auto;padding:0 20px}article{border:1px solid #ddd;padding:16px;margin:16px 0}form.actions{display:inline}button,input{font:inherit;padding:8px;margin:4px}label{display:block}</style>
+<h1>Student wall moderation</h1><p><?= e($message) ?></p>
+<?php if (!$authenticated): ?>
+<form method="post"><input type="hidden" name="csrf" value="<?= e($_SESSION['csrf']) ?>"><input type="hidden" name="action" value="login">
+<label>Password <input type="password" name="password" autocomplete="current-password" required></label><button>Sign in</button></form>
+<?php else: ?>
+<form method="post"><input type="hidden" name="csrf" value="<?= e($_SESSION['csrf']) ?>"><button name="action" value="logout">Sign out</button></form>
+<?php foreach ($records as $record): ?>
+<article><p><?= nl2br(e($record['message'] ?? '')) ?></p><p><?= e($record['name'] ?? 'Anonymous') ?> · <?= e($record['status'] ?? 'pending') ?></p>
+<?php foreach (['approve' => 'Approve', 'pending' => 'Unpublish', 'delete' => 'Delete'] as $action => $label): ?>
+<form method="post" class="actions"><input type="hidden" name="csrf" value="<?= e($_SESSION['csrf']) ?>"><input type="hidden" name="id" value="<?= e($record['id'] ?? '') ?>"><button name="action" value="<?= e($action) ?>"><?= e($label) ?></button></form>
+<?php endforeach; ?></article><?php endforeach; ?>
+<?php endif; ?></html>

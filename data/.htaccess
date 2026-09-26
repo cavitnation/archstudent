@@ -1,0 +1,3 @@
+<FilesMatch "^(subscribers|community)\.json(?:\..*)?$">
+  Require all denied
+</FilesMatch>

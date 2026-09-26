@@ -1,31 +1,24 @@
 <?php
-/* Newsletter signup endpoint. Stores emails in data/subscribers.json. */
+/* Newsletter signup endpoint. Stores emails outside the document root. */
 $BASE = 'https://archstudent.com';
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') { header('Location: /'); exit; }
 
-$email = trim($_POST['email'] ?? '');
-$hp    = trim($_POST['website'] ?? '');   // honeypot: bots fill this
+$email = is_string($_POST['email'] ?? null) ? trim($_POST['email']) : '';
+$hp    = is_string($_POST['website'] ?? null) ? trim($_POST['website']) : 'invalid';   // honeypot: bots fill this
 $ok = ($hp === '' && filter_var($email, FILTER_VALIDATE_EMAIL));
 
 if ($ok) {
   $new = false;
-  $dir = $_SERVER['DOCUMENT_ROOT'].'/data';
-  @mkdir($dir, 0775, true);
-  $f = $dir.'/subscribers.json';
-  $fp = fopen($f, 'c+');
-  if ($fp) {
-    flock($fp, LOCK_EX);
-    $raw = stream_get_contents($fp);
-    $list = $raw ? (json_decode($raw, true) ?: []) : [];
-    $emails = array_column($list, 'email');
-    if (!in_array(strtolower($email), array_map('strtolower', $emails), true)) {
-      $list[] = ['email'=>$email, 'ts'=>date('c'), 'ip'=>($_SERVER['HTTP_CF_CONNECTING_IP'] ?? $_SERVER['REMOTE_ADDR'] ?? '')];
-      $new = true;
-      ftruncate($fp, 0); rewind($fp);
-      fwrite($fp, json_encode($list, JSON_UNESCAPED_SLASHES|JSON_PRETTY_PRINT));
-    }
-    flock($fp, LOCK_UN); fclose($fp);
-  }
+  require_once __DIR__ . '/_private.php';
+  try {
+    as_update_records(as_data_file('subscribers.json'), function (array &$list) use ($email, &$new): void {
+      $emails = array_map('strtolower', array_column($list, 'email'));
+      if (!in_array(strtolower($email), $emails, true)) {
+        $list[] = ['email'=>$email, 'ts'=>date('c'), 'ip'=>($_SERVER['REMOTE_ADDR'] ?? '')];
+        $new = true;
+      }
+    });
+  } catch (Throwable $e) { $new = false; $ok = false; http_response_code(503); error_log('ArchStudent subscriber storage unavailable.'); }
   if ($new) {
     $from = 'ArchStudent <info@archstudent.com>';
     $dash = "\xE2\x80\x94"; // em dash (UTF-8)
